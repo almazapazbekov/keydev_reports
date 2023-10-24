@@ -1,0 +1,7 @@
+venv/
+pgbackups/
+.idea/
+**/__pycache__/
+*.pyc
+db.sqlite3
+keydev_reports.egg-info/

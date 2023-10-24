@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: keydev-reports
+Version: 1.0.0
+Summary: генерация отчетов
+Home-page: home_link
+Author: KeyDev
+Author-email: almazapazbekov@gmail.com
+Project-URL: Documentation, link
+Keywords: example python
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
